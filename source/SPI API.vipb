@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-01-16 14:42:32" Modified_Date="2015-10-19 10:53:11" Creator="rpoulos" Comments="" ID="694cf295a572aabb1a1d73b97d61ac40">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-01-16 14:42:32" Modified_Date="2016-03-03 10:07:10" Creator="rpoulos" Comments="" ID="34e2262cd7edf5bc596720d1a673f78d">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_SPI_API</Package_File_Name>
-    <Library_Version>1.0.1.24</Library_Version>
+    <Library_Version>1.0.2.25</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\Build</Library_Output_Folder>
@@ -46,7 +46,7 @@ NI System on Module
       <Copyright/>
       <Packager>Kalyanramu Vemishetty</Packager>
       <URL/>
-      <Release_Notes>Removed cRIO waveform API as dependency.  Removed cRIO waveform from example code.  Created simplified example code that has been tested and verified.  Added basic licensing.</Release_Notes>
+      <Release_Notes>Renamed a few VIs and controls to better organize API.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -266,7 +266,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>vi.lib\SPIAPI\DLU</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E2ABA061DDF7649397614C65DC263A57</GUID>
+      <GUID>28F421DEDADA13DCB824CDBCF0864B11</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -357,7 +357,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>vi.lib\SPIAPI\DIO\DIO. Write SPI Digital Lines.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>56B352532D708BAE322C20EB5F0D00DD</GUID>
+      <GUID>61F8308D05381E3468A1E4FE12616D0B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -434,7 +434,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>vi.lib\SPIAPI\SPI Engine\Engine SubVIs\SPI Engine. SPI Core.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E378249FADEEF0A9B50E7D77DF52FD2A</GUID>
+      <GUID>58BB5146BF6432BEA943F9DC8E7D295C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -553,7 +553,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>vi.lib\SPIAPI\DLU\SPI Transaction Timer.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C7E36A0EAE0D40467911B68014FF93CC</GUID>
+      <GUID>8D46532559F1F6C95B25FBAA97DD94DF</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

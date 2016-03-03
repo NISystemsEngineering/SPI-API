@@ -7936,7 +7936,7 @@ sbRIO-9651/Clk40/falsefalseFPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSSBRIO_
 					<Item Name="SPI API DIO Enable Lines.ctl" Type="VI" URL="../../../../../../vi.lib/SPIAPI/Controls/SPI API DIO Enable Lines.ctl"/>
 					<Item Name="Initialize SPI Resource References.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/Initialize SPI Resource References.vi"/>
 					<Item Name="SPI API References.ctl" Type="VI" URL="../../../../../../vi.lib/SPIAPI/Controls/SPI API References.ctl"/>
-					<Item Name="SPI Transaction Timer.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/SPI Transaction Timer.vi"/>
+					<Item Name="SPI Transaction Timer.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/SPI Transaction Timer.vi"/>
 					<Item Name="Is SPI Engine Ready for Next Transaction.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/Is SPI Engine Ready for Next Transaction.vi"/>
 					<Item Name="Set Data to Write for SPI Transaction.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/Set Data to Write for SPI Transaction.vi"/>
 					<Item Name="DIO. Enable SPI Digital Lines (CLIP).vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DIO/DIO. Enable SPI Digital Lines (CLIP).vi"/>
