@@ -7929,24 +7929,24 @@ sbRIO-9651/Clk40/falsefalseFPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSSBRIO_
 						<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
 					</Item>
-					<Item Name="Start Current SPI Transaction.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/Start Current SPI Transaction.vi"/>
+					<Item Name="Start SPI Transaction.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/Start SPI Transaction.vi"/>
 					<Item Name="Read SPI Response for SPI Transactions.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/Read SPI Response for SPI Transactions.vi"/>
-					<Item Name="SPI API DIO Lines.ctl" Type="VI" URL="../../../../../../vi.lib/SPIAPI/Controls/SPI API DIO Lines.ctl"/>
+					<Item Name="SPI Digital IO Lines.ctl" Type="VI" URL="../../../../../../vi.lib/SPIAPI/Controls/SPI Digital IO Lines.ctl"/>
 					<Item Name="SPI API Response Data.ctl" Type="VI" URL="../../../../../../vi.lib/SPIAPI/Controls/SPI API Response Data.ctl"/>
-					<Item Name="SPI API DIO Enable Lines.ctl" Type="VI" URL="../../../../../../vi.lib/SPIAPI/Controls/SPI API DIO Enable Lines.ctl"/>
-					<Item Name="Initialize SPI Resource References.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/Initialize SPI Resource References.vi"/>
-					<Item Name="SPI API References.ctl" Type="VI" URL="../../../../../../vi.lib/SPIAPI/Controls/SPI API References.ctl"/>
+					<Item Name="SPI Digital IO Enable Lines.ctl" Type="VI" URL="../../../../../../vi.lib/SPIAPI/Controls/SPI Digital IO Enable Lines.ctl"/>
+					<Item Name="Initialize SPI Engine Resources.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/Initialize SPI Engine Resources.vi"/>
+					<Item Name="SPI Engine Resources.ctl" Type="VI" URL="../../../../../../vi.lib/SPIAPI/Controls/SPI Engine Resources.ctl"/>
 					<Item Name="SPI Transaction Timer.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/SPI Transaction Timer.vi"/>
 					<Item Name="Is SPI Engine Ready for Next Transaction.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/Is SPI Engine Ready for Next Transaction.vi"/>
 					<Item Name="Set Data to Write for SPI Transaction.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/Set Data to Write for SPI Transaction.vi"/>
-					<Item Name="DIO. Enable SPI Digital Lines (CLIP).vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DIO/DIO. Enable SPI Digital Lines (CLIP).vi"/>
+					<Item Name="Enable SPI Digital Lines.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DIO/Enable SPI Digital Lines.vi"/>
 					<Item Name="SPI Engine. Send Response Data.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/SPI Engine/Engine SubVIs/SPI Engine. Send Response Data.vi"/>
 					<Item Name="SPI Engine. SPI Core.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/SPI Engine/Engine SubVIs/SPI Engine. SPI Core.vi"/>
 					<Item Name="SPI Engine. Get Commands.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/SPI Engine/Engine SubVIs/SPI Engine. Get Commands.vi"/>
 					<Item Name="SPI Engine. Main.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/SPI Engine/SPI Engine. Main.vi"/>
-					<Item Name="DIO. Write SPI Digital Lines.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DIO/DIO. Write SPI Digital Lines.vi"/>
-					<Item Name="DIO. Read SPI Digital Lines.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DIO/DIO. Read SPI Digital Lines.vi"/>
-					<Item Name="DIO. Config SPI Digital Lines.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DIO/DIO. Config SPI Digital Lines.vi"/>
+					<Item Name="Write SPI Digital Lines.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DIO/Write SPI Digital Lines.vi"/>
+					<Item Name="Read SPI Digital Lines.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DIO/Read SPI Digital Lines.vi"/>
+					<Item Name="Configure SPI Digital Lines.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DIO/Configure SPI Digital Lines.vi"/>
 					<Item Name="Set SPI Physical Configuration for SPI Transaction.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/DLU/Set SPI Physical Configuration for SPI Transaction.vi"/>
 					<Item Name="SPI Engine. Get Commands. Read FIFO.vi" Type="VI" URL="../../../../../../vi.lib/SPIAPI/SPI Engine/Engine SubVIs/SPI Engine. Get Commands. Read FIFO.vi"/>
 					<Item Name="SPI API Engine Receiver States.ctl" Type="VI" URL="../../../../../../vi.lib/SPIAPI/Controls/SPI API Engine Receiver States.ctl"/>
