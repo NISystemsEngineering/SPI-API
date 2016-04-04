@@ -23,7 +23,30 @@
 		<Item Name="SPI Engine Resources 64-bit.ctl" Type="VI" URL="../Controls/SPI Engine Resources 64-bit.ctl"/>
 		<Item Name="SPI Engine Resources 128-bit.ctl" Type="VI" URL="../Controls/SPI Engine Resources 128-bit.ctl"/>
 		<Item Name="SPI Engine Resources 256-bit.ctl" Type="VI" URL="../Controls/SPI Engine Resources 256-bit.ctl"/>
+		<Item Name="SPI Transaction Settings U16.ctl" Type="VI" URL="../Controls/SPI Transaction Settings U16.ctl"/>
 		<Item Name="SPI Transaction Settings.ctl" Type="VI" URL="../Controls/SPI Transaction Settings.ctl"/>
+	</Item>
+	<Item Name="Custom SPI IP" Type="Folder">
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Controller Interface.ctl" Type="VI" URL="../Custom SPI IP/Controls/Controller Interface.ctl"/>
+			<Item Name="Custom SPI IP U16 Transfer Settings.ctl" Type="VI" URL="../Custom SPI IP/Controls/Custom SPI IP U16 Transfer Settings.ctl"/>
+			<Item Name="Master State.ctl" Type="VI" URL="../Custom SPI IP/Controls/Master State.ctl"/>
+		</Item>
+		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Divider.vi" Type="VI" URL="../Custom SPI IP/SubVIs/Divider.vi"/>
+			<Item Name="Master Data Handler 256-bit.vi" Type="VI" URL="../Custom SPI IP/SubVIs/Master Data Handler 256-bit.vi"/>
+			<Item Name="Master Data Handler.vi" Type="VI" URL="../Custom SPI IP/SubVIs/Master Data Handler.vi"/>
+			<Item Name="Miso Logic 64-bit.vi" Type="VI" URL="../Custom SPI IP/SubVIs/Miso Logic 64-bit.vi"/>
+			<Item Name="Miso Logic 128-bit.vi" Type="VI" URL="../Custom SPI IP/SubVIs/Miso Logic 128-bit.vi"/>
+			<Item Name="Miso Logic 256-bit.vi" Type="VI" URL="../Custom SPI IP/SubVIs/Miso Logic 256-bit.vi"/>
+			<Item Name="Mosi Logic 64-bit.vi" Type="VI" URL="../Custom SPI IP/SubVIs/Mosi Logic 64-bit.vi"/>
+			<Item Name="Mosi Logic 128-bit.vi" Type="VI" URL="../Custom SPI IP/SubVIs/Mosi Logic 128-bit.vi"/>
+			<Item Name="Mosi Logic 256-bit.vi" Type="VI" URL="../Custom SPI IP/SubVIs/Mosi Logic 256-bit.vi"/>
+		</Item>
+		<Item Name="Spi Master 64-bit.vi" Type="VI" URL="../Custom SPI IP/Spi Master 64-bit.vi"/>
+		<Item Name="Spi Master 128-bit.vi" Type="VI" URL="../Custom SPI IP/Spi Master 128-bit.vi"/>
+		<Item Name="Spi Master 256-bit.vi" Type="VI" URL="../Custom SPI IP/Spi Master 256-bit.vi"/>
+		<Item Name="Spi Master.vi" Type="VI" URL="../Custom SPI IP/Spi Master.vi"/>
 	</Item>
 	<Item Name="DIO" Type="Folder">
 		<Item Name="Configure SPI Digital Lines.vi" Type="VI" URL="../DIO/Configure SPI Digital Lines.vi"/>

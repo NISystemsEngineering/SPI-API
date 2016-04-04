@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-01-16 14:42:32" Modified_Date="2016-03-31 16:17:08" Creator="rpoulos" Comments="" ID="102c6e451a4ac8c77a47db064b659108">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-01-16 14:42:32" Modified_Date="2016-04-01 13:28:38" Creator="rpoulos" Comments="" ID="79feea345a39d15375d44e50ed2fc68d">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_SPI_API</Package_File_Name>
-    <Library_Version>1.1.0.28</Library_Version>
+    <Library_Version>1.2.0.29</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\Build</Library_Output_Folder>
@@ -46,7 +46,14 @@ NI System on Module
       <Copyright/>
       <Packager>Kalyanramu Vemishetty</Packager>
       <URL/>
-      <Release_Notes>Added 128-bit SPI transfer mode to allow longer SPI transactions. Also ogrganized and renamed VIs to better reflect the layout of the API.</Release_Notes>
+      <Release_Notes>1.2.0:
+
+New features:
+- Added 128-bit and 256-bit polymorphic instances of API VIs to allow for longer SPI transactions
+
+Other Changes:
+- Renamed VIs to better illustrate their functionality.
+- Added all VIs to a SPI API library for better organization</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -277,7 +284,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>Configuration</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>75DD15E33A0AEE01BA53C9F3D9558162</GUID>
+      <GUID>A123FE0F3FCD2979026489A882BB9E5F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -382,7 +389,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>vi.lib\SPI API\DIO\Read SPI Digital Lines.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>04ECEB43CB85256B88EA17460D3038B0</GUID>
+      <GUID>EFF300030D23CB139ECEF9CD03097869</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -431,7 +438,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>Engine Core</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0650F1BE3F80BFD71A77475F73DAACE9</GUID>
+      <GUID>106FA31AF62856F7832DA21F6CEC655D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -536,7 +543,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>vi.lib\SPI API\DLU\Read SPI Response for SPI Transactions.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B281AEC758B67EB27283F7F49A828292</GUID>
+      <GUID>E3AF5B729CE4A3C0505CAE7C6EF26A58</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -599,7 +606,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>vi.lib\SPI API\SPI Engine\Engine SubVIs\Send SPI Engine Response.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>227834E981F4F4EA7A4523F8D0350201</GUID>
+      <GUID>2FE8C3D8F630F1CBD413DE19D4A9DBC8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -676,7 +683,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>Advanced</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7BBD0983D0B516CBAEAA0B891205519E</GUID>
+      <GUID>9947178DE249FA3415D95ED50A426238</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -711,7 +718,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>vi.lib\SPI API\SPI Engine\Engine Configuration\Set SPI IP Configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>497363CA53465E09BDB1427D6C9EE83C</GUID>
+      <GUID>3497B2B84EC1DFB38699AA7D025981CD</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
