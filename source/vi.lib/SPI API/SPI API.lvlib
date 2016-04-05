@@ -49,7 +49,6 @@
 		<Item Name="Spi Master.vi" Type="VI" URL="../Custom SPI IP/Spi Master.vi"/>
 	</Item>
 	<Item Name="DIO" Type="Folder">
-		<Item Name="Configure SPI Digital Lines.vi" Type="VI" URL="../DIO/Configure SPI Digital Lines.vi"/>
 		<Item Name="Enable SPI Digital Lines.vi" Type="VI" URL="../DIO/Enable SPI Digital Lines.vi"/>
 		<Item Name="Initialize SPI Digital Lines.vi" Type="VI" URL="../DIO/Initialize SPI Digital Lines.vi"/>
 		<Item Name="Read SPI Digital Lines.vi" Type="VI" URL="../DIO/Read SPI Digital Lines.vi"/>
