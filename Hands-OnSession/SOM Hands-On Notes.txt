@@ -1,0 +1,6 @@
+Check Spelling
+Explain "Simulation Target"
+Explain SPI API, where to get
+Screenshot of full code incorrect (I/O Lines)
+SPI API VI names
+final pin assignments
